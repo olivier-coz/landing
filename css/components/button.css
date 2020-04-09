@@ -1,0 +1,13 @@
+.btn-purple{
+	
+	background-color: #8566aa;
+	padding: 14px;
+	border-radius:6px;
+	font-weight: bold;
+	font-family: 'Baloo 2', sans-serif;
+	color:#ffffff
+}
+
+.btn-purple:hover{
+	background-color: #343c46;
+}
